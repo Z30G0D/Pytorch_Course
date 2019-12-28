@@ -1,6 +1,6 @@
 # Pytorch_Course
 <br>
-<img src="https://images.app.goo.gl/QzA5YycHNHpxeytR6">
+<img src="https://miro.medium.com/max/400/1*88Ep1eLjxzy83RgA9-dWow.jpeg">
 <br>
 This is my Git repository for the course EPFL EE-559 – DEEP LEARNING <br>
 The entire course lectures, videos and solutions are located <a href="https://fleuret.org/ee559/"> here</a>.<br>
